@@ -1,0 +1,15 @@
+# SECURITY: Never push API keys!
+.env
+
+# VIRTUAL ENVIRONMENT: Never push Python environments
+venv/
+env/
+__pycache__/
+*.pyc
+
+# DATA: Too large for GitHub (Provide a download link in README instead)
+data/
+
+# OS FILES
+.DS_Store
+Thumbs.db

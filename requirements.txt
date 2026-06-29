@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+matplotlib
+geopandas
+shapely
+folium
+streamlit-folium
+openai
+python-dotenv
+requests
+opencv-python
+pyarrow
+scipy
